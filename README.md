@@ -1,5 +1,5 @@
 # Scirtocea Bianca 331CB
-# TEMA FLEX - LFA
+# Proiect FLEX - LFA
 
 Codul începe prin definirea structurilor de bază - una pentru tranziții în automate (cu stare sursă, simbol și stare destinație), una pentru automate complete (cu nume, alfabet, stări, etc) și una pentru gramatici (cu nume, neterminale, alfabet și producții).
     
